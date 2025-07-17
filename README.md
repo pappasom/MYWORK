@@ -1,2 +1,2 @@
-1. Submissions for UTAustin MSAI
+1. Submissions for UTAustin MSAI in folder "UTAustin"
 2. 
